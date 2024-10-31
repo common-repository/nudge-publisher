@@ -1,0 +1,40 @@
+.ndg-plublisher-post-plublisher-code-id-feedback {
+    clear: both;
+    margin: 1em 0;
+    padding: 0.3em 0.6em;
+    color: #333;
+    background-color: #ffffe0;
+    border: 1px solid #e6db55;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+}
+
+.ndg-plublisher-post-plublisher-code-id-feedback a {
+    text-decoration: none;
+}
+
+.ndg-plublisher-post-plublisher-code-id-feedback p {
+    margin: 0.5em 0;
+    padding: 2px;
+}
+
+.ndg-plublisher-post-plublisher-code-id-feedback-error {
+    background-color: #ffebe8;
+    border-color: #cc0000;
+}
+
+.ndg-plublisher-post-plublisher-code-id-feedback-error a {
+    color: #cc0000;
+    text-decoration: underline;
+}
+
+.ndg-plublisher-post-plublisher-code-id-feedback-success {
+    background-color: #dff0d8;
+    border-color: #3c763d;
+}
+
+.ndg-plublisher-post-plublisher-code-id-feedback-success a {
+    color: #3c763d;
+    text-decoration: underline;
+}
